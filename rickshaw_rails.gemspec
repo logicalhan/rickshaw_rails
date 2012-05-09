@@ -1,12 +1,12 @@
 # -*- encoding: utf-8 -*-
 require File.expand_path('../lib/rickshaw_rails/version', __FILE__)
 
-Gem::Specification.new do |gem|
+Gem::Specification.new do |s|
   s.authors     = ["Han Kang", "Cynthia Kiser", "Byron Anderson", "Johnathan Pulos"]
   s.email       = ["han@logicallsat.com"]
-  gem.description   = %q{ Rickshaw, a javascript graphing library based on d3, for the rails asset pipeline }
-  gem.summary       = %q{ Gem installation of javascript framework for data visualization, D3 }
-  gem.homepage      = ""
+  s.description   = %q{ Rickshaw, a javascript graphing library based on d3, for the rails asset pipeline }
+  s.summary       = %q{ Gem installation of javascript framework for data visualization, D3 }
+  s.homepage      = ""
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
