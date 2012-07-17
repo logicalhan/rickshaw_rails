@@ -18,7 +18,20 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add this line to your application.css:
+
+    *= require rickshaw
+    
+Add this line to your application.js (This includes both rickshaw and d3.js):
+
+    //= require rickshaw_with_d3
+    
+You can also require d3 and rickshaw seperately if you want:
+
+    //= require d3.v2
+    //= require rickshaw
+
+You can now use rickshaw in your app.
 
 ## Contributing
 
