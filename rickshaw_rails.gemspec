@@ -2,6 +2,8 @@
 require File.expand_path('../lib/rickshaw_rails/version', __FILE__)
 
 Gem::Specification.new do |s|
+  s.name        = 'rickshaw_rails'
+  s.version     = RickshawRails::VERSION
   s.authors     = ["Han Kang", "Cynthia Kiser", "Byron Anderson", "Johnathan Pulos"]
   s.email       = ["han@logicallsat.com"]
   s.description   = %q{ Rickshaw, a javascript graphing library based on d3, for the rails asset pipeline }
