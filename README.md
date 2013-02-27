@@ -33,6 +33,10 @@ You can also require d3 and rickshaw seperately if you want:
 
 You can now use rickshaw in your app.
 
+## Version
+
+As of February 27th 2013, the version of this gem has been changed to reflect the rickshaw version numbers.
+
 ## Contributing
 
 1. Fork it

@@ -1,3 +1,3 @@
 module RickshawRails
-  VERSION = "0.0.4"
+  VERSION = "1.2.0"
 end
