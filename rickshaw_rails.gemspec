@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.summary       = %q{ Gem installation of javascript framework for data visualization, D3 }
   s.homepage      = ""
 
-  s.files         = Dir["{lib,vendor}/**/*"]
+  s.files         = Dir["{lib,app}/**/*"]
   s.require_paths = ["lib", "app"]
 
   s.add_dependency "railties", ">= 3.1.0"
