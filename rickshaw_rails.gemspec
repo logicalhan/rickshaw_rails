@@ -1,5 +1,4 @@
-# -*- encoding: utf-8 -*-
-require File.expand_path('../lib/rickshaw_rails/version', __FILE__)
+require './lib/rickshaw_rails/version'
 
 Gem::Specification.new do |s|
   s.name        = 'rickshaw_rails'
@@ -9,6 +8,7 @@ Gem::Specification.new do |s|
   s.description   = %q{ Rickshaw, a javascript graphing library based on d3, for the rails asset pipeline }
   s.summary       = %q{ Gem installation of javascript framework for data visualization, D3 }
   s.homepage      = "https://github.com/logical42/rickshaw_rails"
+  s.license       = "MIT"
 
   s.files         = Dir["{lib,app}/**/*"]
   s.require_paths = ["lib", "app"]
