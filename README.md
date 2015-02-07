@@ -1,6 +1,6 @@
 # RickshawRails
 
-This gem packages the [Rickshaw](http://code.shutterstock.com/rickshaw/) Javascript graphing library for easy use with the Rails 3.1+ asset pipleine.
+This gem packages the [Rickshaw](http://code.shutterstock.com/rickshaw/) Javascript graphing library for easy use with the Rails 3.1+ asset pipeline.
 
 ## Installation
 
