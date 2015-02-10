@@ -26,7 +26,7 @@ Add this line to your application.js (This includes both rickshaw and d3.js):
 
     //= require rickshaw_with_d3
     
-You can also require d3 and rickshaw seperately if you want:
+You can also require d3 and rickshaw separately if you want:
 
     //= require d3.v2
     //= require rickshaw
