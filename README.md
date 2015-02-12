@@ -35,6 +35,8 @@ You can now use rickshaw in your app.
 
 ## Version
 
+rickshaw-rails version 1.1.2 comes with rickshaw version 1.1.2 and d3.js version 2.9.1.
+
 As of February 27th 2013, the version of this gem has been changed to reflect the rickshaw version numbers.
 
 ## Contributing
