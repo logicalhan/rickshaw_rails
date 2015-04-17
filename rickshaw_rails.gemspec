@@ -1,5 +1,4 @@
-# -*- encoding: utf-8 -*-
-require File.expand_path('../lib/rickshaw_rails/version', __FILE__)
+require './lib/rickshaw_rails/version'
 
 Gem::Specification.new do |s|
   s.name        = 'rickshaw_rails'
